@@ -1,0 +1,442 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Project\\Sistemas\\Sistema_Clinica\\ClinicaPRO\\Src\\Clinica.Api\\Clinica.Api.csproj": {}
+  },
+  "projects": {
+    "C:\\Project\\Sistemas\\Sistema_Clinica\\ClinicaPRO\\Src\\Clinica.Api\\Clinica.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Project\\Sistemas\\Sistema_Clinica\\ClinicaPRO\\Src\\Clinica.Api\\Clinica.Api.csproj",
+        "projectName": "Clinica.Api",
+        "projectPath": "C:\\Project\\Sistemas\\Sistema_Clinica\\ClinicaPRO\\Src\\Clinica.Api\\Clinica.Api.csproj",
+        "packagesPath": "C:\\Users\\Ing Gunner\\.nuget\\packages\\",
+        "outputPath": "C:\\Project\\Sistemas\\Sistema_Clinica\\ClinicaPRO\\Src\\Clinica.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Ing Gunner\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Project\\Sistemas\\Sistema_Clinica\\ClinicaPRO\\Src\\Clinica.Application.UseCase\\Clinica.Application.UseCase.csproj": {
+                "projectPath": "C:\\Project\\Sistemas\\Sistema_Clinica\\ClinicaPRO\\Src\\Clinica.Application.UseCase\\Clinica.Application.UseCase.csproj"
+              },
+              "C:\\Project\\Sistemas\\Sistema_Clinica\\ClinicaPRO\\Src\\Clinica.Persistence\\Clinica.Persistence.csproj": {
+                "projectPath": "C:\\Project\\Sistemas\\Sistema_Clinica\\ClinicaPRO\\Src\\Clinica.Persistence\\Clinica.Persistence.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Project\\Sistemas\\Sistema_Clinica\\ClinicaPRO\\Src\\Clinica.Application.Dtos\\Clinica.Application.Dtos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Project\\Sistemas\\Sistema_Clinica\\ClinicaPRO\\Src\\Clinica.Application.Dtos\\Clinica.Application.Dtos.csproj",
+        "projectName": "Clinica.Application.Dtos",
+        "projectPath": "C:\\Project\\Sistemas\\Sistema_Clinica\\ClinicaPRO\\Src\\Clinica.Application.Dtos\\Clinica.Application.Dtos.csproj",
+        "packagesPath": "C:\\Users\\Ing Gunner\\.nuget\\packages\\",
+        "outputPath": "C:\\Project\\Sistemas\\Sistema_Clinica\\ClinicaPRO\\Src\\Clinica.Application.Dtos\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Ing Gunner\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Project\\Sistemas\\Sistema_Clinica\\ClinicaPRO\\Src\\Clinica.Application.Interface\\Clinica.Application.Interface.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Project\\Sistemas\\Sistema_Clinica\\ClinicaPRO\\Src\\Clinica.Application.Interface\\Clinica.Application.Interface.csproj",
+        "projectName": "Clinica.Application.Interface",
+        "projectPath": "C:\\Project\\Sistemas\\Sistema_Clinica\\ClinicaPRO\\Src\\Clinica.Application.Interface\\Clinica.Application.Interface.csproj",
+        "packagesPath": "C:\\Users\\Ing Gunner\\.nuget\\packages\\",
+        "outputPath": "C:\\Project\\Sistemas\\Sistema_Clinica\\ClinicaPRO\\Src\\Clinica.Application.Interface\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Ing Gunner\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Project\\Sistemas\\Sistema_Clinica\\ClinicaPRO\\Src\\Clinica.Domain\\Clinica.Domain.csproj": {
+                "projectPath": "C:\\Project\\Sistemas\\Sistema_Clinica\\ClinicaPRO\\Src\\Clinica.Domain\\Clinica.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Project\\Sistemas\\Sistema_Clinica\\ClinicaPRO\\Src\\Clinica.Application.UseCase\\Clinica.Application.UseCase.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Project\\Sistemas\\Sistema_Clinica\\ClinicaPRO\\Src\\Clinica.Application.UseCase\\Clinica.Application.UseCase.csproj",
+        "projectName": "Clinica.Application.UseCase",
+        "projectPath": "C:\\Project\\Sistemas\\Sistema_Clinica\\ClinicaPRO\\Src\\Clinica.Application.UseCase\\Clinica.Application.UseCase.csproj",
+        "packagesPath": "C:\\Users\\Ing Gunner\\.nuget\\packages\\",
+        "outputPath": "C:\\Project\\Sistemas\\Sistema_Clinica\\ClinicaPRO\\Src\\Clinica.Application.UseCase\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Ing Gunner\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Project\\Sistemas\\Sistema_Clinica\\ClinicaPRO\\Src\\Clinica.Application.Dtos\\Clinica.Application.Dtos.csproj": {
+                "projectPath": "C:\\Project\\Sistemas\\Sistema_Clinica\\ClinicaPRO\\Src\\Clinica.Application.Dtos\\Clinica.Application.Dtos.csproj"
+              },
+              "C:\\Project\\Sistemas\\Sistema_Clinica\\ClinicaPRO\\Src\\Clinica.Application.Interface\\Clinica.Application.Interface.csproj": {
+                "projectPath": "C:\\Project\\Sistemas\\Sistema_Clinica\\ClinicaPRO\\Src\\Clinica.Application.Interface\\Clinica.Application.Interface.csproj"
+              },
+              "C:\\Project\\Sistemas\\Sistema_Clinica\\ClinicaPRO\\Src\\Clinica.Domain\\Clinica.Domain.csproj": {
+                "projectPath": "C:\\Project\\Sistemas\\Sistema_Clinica\\ClinicaPRO\\Src\\Clinica.Domain\\Clinica.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[11.5.2, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Project\\Sistemas\\Sistema_Clinica\\ClinicaPRO\\Src\\Clinica.Domain\\Clinica.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Project\\Sistemas\\Sistema_Clinica\\ClinicaPRO\\Src\\Clinica.Domain\\Clinica.Domain.csproj",
+        "projectName": "Clinica.Domain",
+        "projectPath": "C:\\Project\\Sistemas\\Sistema_Clinica\\ClinicaPRO\\Src\\Clinica.Domain\\Clinica.Domain.csproj",
+        "packagesPath": "C:\\Users\\Ing Gunner\\.nuget\\packages\\",
+        "outputPath": "C:\\Project\\Sistemas\\Sistema_Clinica\\ClinicaPRO\\Src\\Clinica.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Ing Gunner\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Project\\Sistemas\\Sistema_Clinica\\ClinicaPRO\\Src\\Clinica.Persistence\\Clinica.Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Project\\Sistemas\\Sistema_Clinica\\ClinicaPRO\\Src\\Clinica.Persistence\\Clinica.Persistence.csproj",
+        "projectName": "Clinica.Persistence",
+        "projectPath": "C:\\Project\\Sistemas\\Sistema_Clinica\\ClinicaPRO\\Src\\Clinica.Persistence\\Clinica.Persistence.csproj",
+        "packagesPath": "C:\\Users\\Ing Gunner\\.nuget\\packages\\",
+        "outputPath": "C:\\Project\\Sistemas\\Sistema_Clinica\\ClinicaPRO\\Src\\Clinica.Persistence\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Ing Gunner\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Project\\Sistemas\\Sistema_Clinica\\ClinicaPRO\\Src\\Clinica.Application.Interface\\Clinica.Application.Interface.csproj": {
+                "projectPath": "C:\\Project\\Sistemas\\Sistema_Clinica\\ClinicaPRO\\Src\\Clinica.Application.Interface\\Clinica.Application.Interface.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.123, )"
+            },
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[5.1.1, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

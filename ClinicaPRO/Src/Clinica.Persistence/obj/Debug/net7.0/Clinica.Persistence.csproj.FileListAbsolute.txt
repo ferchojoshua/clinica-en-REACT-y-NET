@@ -1,0 +1,17 @@
+C:\Project\Sistemas\Sistema_Clinica\ClinicaPRO\Src\Clinica.Persistence\obj\Debug\net7.0\Clinica.Persistence.csproj.AssemblyReference.cache
+C:\Project\Sistemas\Sistema_Clinica\ClinicaPRO\Src\Clinica.Persistence\obj\Debug\net7.0\Clinica.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\Sistemas\Sistema_Clinica\ClinicaPRO\Src\Clinica.Persistence\obj\Debug\net7.0\Clinica.Persistence.AssemblyInfoInputs.cache
+C:\Project\Sistemas\Sistema_Clinica\ClinicaPRO\Src\Clinica.Persistence\obj\Debug\net7.0\Clinica.Persistence.AssemblyInfo.cs
+C:\Project\Sistemas\Sistema_Clinica\ClinicaPRO\Src\Clinica.Persistence\obj\Debug\net7.0\Clinica.Persistence.csproj.CoreCompileInputs.cache
+C:\Project\Sistemas\Sistema_Clinica\ClinicaPRO\Src\Clinica.Persistence\bin\Debug\net7.0\Clinica.Persistence.deps.json
+C:\Project\Sistemas\Sistema_Clinica\ClinicaPRO\Src\Clinica.Persistence\bin\Debug\net7.0\Clinica.Persistence.dll
+C:\Project\Sistemas\Sistema_Clinica\ClinicaPRO\Src\Clinica.Persistence\bin\Debug\net7.0\Clinica.Persistence.pdb
+C:\Project\Sistemas\Sistema_Clinica\ClinicaPRO\Src\Clinica.Persistence\bin\Debug\net7.0\Clinica.Application.Interface.dll
+C:\Project\Sistemas\Sistema_Clinica\ClinicaPRO\Src\Clinica.Persistence\bin\Debug\net7.0\Clinica.Domain.dll
+C:\Project\Sistemas\Sistema_Clinica\ClinicaPRO\Src\Clinica.Persistence\bin\Debug\net7.0\Clinica.Application.Interface.pdb
+C:\Project\Sistemas\Sistema_Clinica\ClinicaPRO\Src\Clinica.Persistence\bin\Debug\net7.0\Clinica.Domain.pdb
+C:\Project\Sistemas\Sistema_Clinica\ClinicaPRO\Src\Clinica.Persistence\obj\Debug\net7.0\Clinica.Persistence.csproj.CopyComplete
+C:\Project\Sistemas\Sistema_Clinica\ClinicaPRO\Src\Clinica.Persistence\obj\Debug\net7.0\Clinica.Persistence.dll
+C:\Project\Sistemas\Sistema_Clinica\ClinicaPRO\Src\Clinica.Persistence\obj\Debug\net7.0\refint\Clinica.Persistence.dll
+C:\Project\Sistemas\Sistema_Clinica\ClinicaPRO\Src\Clinica.Persistence\obj\Debug\net7.0\Clinica.Persistence.pdb
+C:\Project\Sistemas\Sistema_Clinica\ClinicaPRO\Src\Clinica.Persistence\obj\Debug\net7.0\ref\Clinica.Persistence.dll

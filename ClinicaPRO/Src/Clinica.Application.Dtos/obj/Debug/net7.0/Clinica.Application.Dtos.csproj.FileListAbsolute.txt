@@ -1,0 +1,12 @@
+C:\Project\Sistemas\Sistema_Clinica\ClinicaPRO\Src\Clinica.Application.Dtos\bin\Debug\net7.0\Clinica.Application.Dtos.deps.json
+C:\Project\Sistemas\Sistema_Clinica\ClinicaPRO\Src\Clinica.Application.Dtos\bin\Debug\net7.0\Clinica.Application.Dtos.dll
+C:\Project\Sistemas\Sistema_Clinica\ClinicaPRO\Src\Clinica.Application.Dtos\bin\Debug\net7.0\Clinica.Application.Dtos.pdb
+C:\Project\Sistemas\Sistema_Clinica\ClinicaPRO\Src\Clinica.Application.Dtos\obj\Debug\net7.0\Clinica.Application.Dtos.csproj.AssemblyReference.cache
+C:\Project\Sistemas\Sistema_Clinica\ClinicaPRO\Src\Clinica.Application.Dtos\obj\Debug\net7.0\Clinica.Application.Dtos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\Sistemas\Sistema_Clinica\ClinicaPRO\Src\Clinica.Application.Dtos\obj\Debug\net7.0\Clinica.Application.Dtos.AssemblyInfoInputs.cache
+C:\Project\Sistemas\Sistema_Clinica\ClinicaPRO\Src\Clinica.Application.Dtos\obj\Debug\net7.0\Clinica.Application.Dtos.AssemblyInfo.cs
+C:\Project\Sistemas\Sistema_Clinica\ClinicaPRO\Src\Clinica.Application.Dtos\obj\Debug\net7.0\Clinica.Application.Dtos.csproj.CoreCompileInputs.cache
+C:\Project\Sistemas\Sistema_Clinica\ClinicaPRO\Src\Clinica.Application.Dtos\obj\Debug\net7.0\Clinica.Application.Dtos.dll
+C:\Project\Sistemas\Sistema_Clinica\ClinicaPRO\Src\Clinica.Application.Dtos\obj\Debug\net7.0\refint\Clinica.Application.Dtos.dll
+C:\Project\Sistemas\Sistema_Clinica\ClinicaPRO\Src\Clinica.Application.Dtos\obj\Debug\net7.0\Clinica.Application.Dtos.pdb
+C:\Project\Sistemas\Sistema_Clinica\ClinicaPRO\Src\Clinica.Application.Dtos\obj\Debug\net7.0\ref\Clinica.Application.Dtos.dll

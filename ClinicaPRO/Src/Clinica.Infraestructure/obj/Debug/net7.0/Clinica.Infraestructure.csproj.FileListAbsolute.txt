@@ -1,0 +1,17 @@
+C:\Project\Sistemas\Sistema_Clinica\ClinicaPRO\Src\Clinica.Infraestructure\bin\Debug\net7.0\Clinica.Infraestructure.deps.json
+C:\Project\Sistemas\Sistema_Clinica\ClinicaPRO\Src\Clinica.Infraestructure\bin\Debug\net7.0\Clinica.Infraestructure.dll
+C:\Project\Sistemas\Sistema_Clinica\ClinicaPRO\Src\Clinica.Infraestructure\bin\Debug\net7.0\Clinica.Infraestructure.pdb
+C:\Project\Sistemas\Sistema_Clinica\ClinicaPRO\Src\Clinica.Infraestructure\bin\Debug\net7.0\Clinica.Application.Interface.dll
+C:\Project\Sistemas\Sistema_Clinica\ClinicaPRO\Src\Clinica.Infraestructure\bin\Debug\net7.0\Clinica.Domain.dll
+C:\Project\Sistemas\Sistema_Clinica\ClinicaPRO\Src\Clinica.Infraestructure\bin\Debug\net7.0\Clinica.Application.Interface.pdb
+C:\Project\Sistemas\Sistema_Clinica\ClinicaPRO\Src\Clinica.Infraestructure\bin\Debug\net7.0\Clinica.Domain.pdb
+C:\Project\Sistemas\Sistema_Clinica\ClinicaPRO\Src\Clinica.Infraestructure\obj\Debug\net7.0\Clinica.Infraestructure.csproj.AssemblyReference.cache
+C:\Project\Sistemas\Sistema_Clinica\ClinicaPRO\Src\Clinica.Infraestructure\obj\Debug\net7.0\Clinica.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\Sistemas\Sistema_Clinica\ClinicaPRO\Src\Clinica.Infraestructure\obj\Debug\net7.0\Clinica.Infraestructure.AssemblyInfoInputs.cache
+C:\Project\Sistemas\Sistema_Clinica\ClinicaPRO\Src\Clinica.Infraestructure\obj\Debug\net7.0\Clinica.Infraestructure.AssemblyInfo.cs
+C:\Project\Sistemas\Sistema_Clinica\ClinicaPRO\Src\Clinica.Infraestructure\obj\Debug\net7.0\Clinica.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Project\Sistemas\Sistema_Clinica\ClinicaPRO\Src\Clinica.Infraestructure\obj\Debug\net7.0\Clinica.Infraestructure.csproj.CopyComplete
+C:\Project\Sistemas\Sistema_Clinica\ClinicaPRO\Src\Clinica.Infraestructure\obj\Debug\net7.0\Clinica.Infraestructure.dll
+C:\Project\Sistemas\Sistema_Clinica\ClinicaPRO\Src\Clinica.Infraestructure\obj\Debug\net7.0\refint\Clinica.Infraestructure.dll
+C:\Project\Sistemas\Sistema_Clinica\ClinicaPRO\Src\Clinica.Infraestructure\obj\Debug\net7.0\Clinica.Infraestructure.pdb
+C:\Project\Sistemas\Sistema_Clinica\ClinicaPRO\Src\Clinica.Infraestructure\obj\Debug\net7.0\ref\Clinica.Infraestructure.dll

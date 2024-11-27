@@ -1,0 +1,87 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Application", "Application", "{127960B1-BD2A-4227-A6E7-E71F1F2CC462}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Domain", "Domain", "{D7BB9DD6-0E2B-4B63-993B-3EFD2D4F889C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infraestructure", "Infraestructure", "{C65655B2-BDE8-4EBD-9AB7-772080BE42B4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{B238A22A-223A-471D-B5A0-E42FA7E6A6B9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Utilities", "Utilities", "{49A72BE5-1B57-4B65-BE46-B572288C9673}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Clinica.Persistence", "Src\Clinica.Persistence\Clinica.Persistence.csproj", "{609CF062-4A9E-45D7-95AC-F06D1C23AB4D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Clinica.Application.Dtos", "Src\Clinica.Application.Dtos\Clinica.Application.Dtos.csproj", "{87836470-8476-4CDC-97C1-C8D97A409B9F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Clinica.Application.Interface", "Src\Clinica.Application.Interface\Clinica.Application.Interface.csproj", "{0E8FE257-BFD4-463A-ACB1-EE8F84692B9D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Clinica.Application.UseCase", "Src\Clinica.Application.UseCase\Clinica.Application.UseCase.csproj", "{ECABA66F-04CD-4386-9BAF-D6A53A43EFEF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Clinica.Api", "Src\Clinica.Api\Clinica.Api.csproj", "{31ED7EA7-CA32-478D-BF50-994AE5BE2B13}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Clinica.Utilities", "Src\Clinica.Utilities\Clinica.Utilities.csproj", "{C7FDAC53-8B28-4C01-8EDD-32FCABA6B257}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Clinica.Domain", "Src\Clinica.Domain\Clinica.Domain.csproj", "{3FC0E42C-8190-42B7-924F-03AA2AAFE9E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clinica.Infraestructure", "Src\Clinica.Infraestructure\Clinica.Infraestructure.csproj", "{8030F716-F0FA-4928-8BC4-F3DD8A12BB7F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{609CF062-4A9E-45D7-95AC-F06D1C23AB4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{609CF062-4A9E-45D7-95AC-F06D1C23AB4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{609CF062-4A9E-45D7-95AC-F06D1C23AB4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{609CF062-4A9E-45D7-95AC-F06D1C23AB4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87836470-8476-4CDC-97C1-C8D97A409B9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87836470-8476-4CDC-97C1-C8D97A409B9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87836470-8476-4CDC-97C1-C8D97A409B9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87836470-8476-4CDC-97C1-C8D97A409B9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E8FE257-BFD4-463A-ACB1-EE8F84692B9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E8FE257-BFD4-463A-ACB1-EE8F84692B9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E8FE257-BFD4-463A-ACB1-EE8F84692B9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E8FE257-BFD4-463A-ACB1-EE8F84692B9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECABA66F-04CD-4386-9BAF-D6A53A43EFEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECABA66F-04CD-4386-9BAF-D6A53A43EFEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECABA66F-04CD-4386-9BAF-D6A53A43EFEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECABA66F-04CD-4386-9BAF-D6A53A43EFEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31ED7EA7-CA32-478D-BF50-994AE5BE2B13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31ED7EA7-CA32-478D-BF50-994AE5BE2B13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31ED7EA7-CA32-478D-BF50-994AE5BE2B13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31ED7EA7-CA32-478D-BF50-994AE5BE2B13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7FDAC53-8B28-4C01-8EDD-32FCABA6B257}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7FDAC53-8B28-4C01-8EDD-32FCABA6B257}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7FDAC53-8B28-4C01-8EDD-32FCABA6B257}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7FDAC53-8B28-4C01-8EDD-32FCABA6B257}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FC0E42C-8190-42B7-924F-03AA2AAFE9E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FC0E42C-8190-42B7-924F-03AA2AAFE9E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FC0E42C-8190-42B7-924F-03AA2AAFE9E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FC0E42C-8190-42B7-924F-03AA2AAFE9E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8030F716-F0FA-4928-8BC4-F3DD8A12BB7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8030F716-F0FA-4928-8BC4-F3DD8A12BB7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8030F716-F0FA-4928-8BC4-F3DD8A12BB7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8030F716-F0FA-4928-8BC4-F3DD8A12BB7F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{609CF062-4A9E-45D7-95AC-F06D1C23AB4D} = {C65655B2-BDE8-4EBD-9AB7-772080BE42B4}
+		{87836470-8476-4CDC-97C1-C8D97A409B9F} = {127960B1-BD2A-4227-A6E7-E71F1F2CC462}
+		{0E8FE257-BFD4-463A-ACB1-EE8F84692B9D} = {127960B1-BD2A-4227-A6E7-E71F1F2CC462}
+		{ECABA66F-04CD-4386-9BAF-D6A53A43EFEF} = {127960B1-BD2A-4227-A6E7-E71F1F2CC462}
+		{31ED7EA7-CA32-478D-BF50-994AE5BE2B13} = {B238A22A-223A-471D-B5A0-E42FA7E6A6B9}
+		{C7FDAC53-8B28-4C01-8EDD-32FCABA6B257} = {49A72BE5-1B57-4B65-BE46-B572288C9673}
+		{3FC0E42C-8190-42B7-924F-03AA2AAFE9E4} = {D7BB9DD6-0E2B-4B63-993B-3EFD2D4F889C}
+		{8030F716-F0FA-4928-8BC4-F3DD8A12BB7F} = {C65655B2-BDE8-4EBD-9AB7-772080BE42B4}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B7DBA528-275E-4502-AC17-2562F0F319DF}
+	EndGlobalSection
+EndGlobal

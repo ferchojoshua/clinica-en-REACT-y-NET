@@ -1,0 +1,15 @@
+C:\Project\Sistemas\Sistema_Clinica\ClinicaPRO\Src\Clinica.Application.Interface\bin\Debug\net7.0\Clinica.Application.Interface.deps.json
+C:\Project\Sistemas\Sistema_Clinica\ClinicaPRO\Src\Clinica.Application.Interface\bin\Debug\net7.0\Clinica.Application.Interface.dll
+C:\Project\Sistemas\Sistema_Clinica\ClinicaPRO\Src\Clinica.Application.Interface\bin\Debug\net7.0\Clinica.Application.Interface.pdb
+C:\Project\Sistemas\Sistema_Clinica\ClinicaPRO\Src\Clinica.Application.Interface\bin\Debug\net7.0\Clinica.Domain.dll
+C:\Project\Sistemas\Sistema_Clinica\ClinicaPRO\Src\Clinica.Application.Interface\bin\Debug\net7.0\Clinica.Domain.pdb
+C:\Project\Sistemas\Sistema_Clinica\ClinicaPRO\Src\Clinica.Application.Interface\obj\Debug\net7.0\Clinica.Application.Interface.csproj.AssemblyReference.cache
+C:\Project\Sistemas\Sistema_Clinica\ClinicaPRO\Src\Clinica.Application.Interface\obj\Debug\net7.0\Clinica.Application.Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\Sistemas\Sistema_Clinica\ClinicaPRO\Src\Clinica.Application.Interface\obj\Debug\net7.0\Clinica.Application.Interface.AssemblyInfoInputs.cache
+C:\Project\Sistemas\Sistema_Clinica\ClinicaPRO\Src\Clinica.Application.Interface\obj\Debug\net7.0\Clinica.Application.Interface.AssemblyInfo.cs
+C:\Project\Sistemas\Sistema_Clinica\ClinicaPRO\Src\Clinica.Application.Interface\obj\Debug\net7.0\Clinica.Application.Interface.csproj.CoreCompileInputs.cache
+C:\Project\Sistemas\Sistema_Clinica\ClinicaPRO\Src\Clinica.Application.Interface\obj\Debug\net7.0\Clinica.Application.Interface.csproj.CopyComplete
+C:\Project\Sistemas\Sistema_Clinica\ClinicaPRO\Src\Clinica.Application.Interface\obj\Debug\net7.0\Clinica.Application.Interface.dll
+C:\Project\Sistemas\Sistema_Clinica\ClinicaPRO\Src\Clinica.Application.Interface\obj\Debug\net7.0\refint\Clinica.Application.Interface.dll
+C:\Project\Sistemas\Sistema_Clinica\ClinicaPRO\Src\Clinica.Application.Interface\obj\Debug\net7.0\Clinica.Application.Interface.pdb
+C:\Project\Sistemas\Sistema_Clinica\ClinicaPRO\Src\Clinica.Application.Interface\obj\Debug\net7.0\ref\Clinica.Application.Interface.dll

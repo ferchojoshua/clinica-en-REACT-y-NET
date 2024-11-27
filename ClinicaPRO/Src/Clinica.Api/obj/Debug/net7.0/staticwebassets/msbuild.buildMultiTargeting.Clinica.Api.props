@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Clinica.Api.props" />
+</Project>
